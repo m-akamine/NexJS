@@ -73,3 +73,10 @@
 
 
 4. コンテンツの準備
+	Setup4 コンテンツの準備 [副読本 セットアップPDF](https://github.com/ebisucom/next-react-website/blob/main/setup.pdf) (副読本 P32)  
+
+	* microCMSでコンテンツのデータ準備(副読本 P48)  
+	* 4.1 サービスを作成 サービス名「CUBE Blog」、サービスID「cube-blog-s23000」(学籍番号)   
+	* 4.2 [APIカテゴリー](https://github.com/ebisucom/next-react-website/blob/main/import/api-categories.json)、[カテゴリーデータ](https://github.com/ebisucom/next-react-website/blob/main/import/contents-categories.csv)をインポート  
+	* 4.3 [ブログAPI](https://github.com/ebisucom/next-react-website/blob/main/import/api-blogs.json)、[記事データ](https://github.com/ebisucom/next-react-website/blob/main/import/contents-blogs.csv)をインポート
+	* 4.4 自分のAPIキーやIDを確認
